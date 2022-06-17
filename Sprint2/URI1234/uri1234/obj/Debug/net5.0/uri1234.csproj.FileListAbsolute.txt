@@ -1,0 +1,16 @@
+C:\Users\nicholas\Desktop\uri1234\uri1234\bin\Debug\net5.0\uri1234.exe
+C:\Users\nicholas\Desktop\uri1234\uri1234\bin\Debug\net5.0\uri1234.deps.json
+C:\Users\nicholas\Desktop\uri1234\uri1234\bin\Debug\net5.0\uri1234.runtimeconfig.json
+C:\Users\nicholas\Desktop\uri1234\uri1234\bin\Debug\net5.0\uri1234.runtimeconfig.dev.json
+C:\Users\nicholas\Desktop\uri1234\uri1234\bin\Debug\net5.0\uri1234.dll
+C:\Users\nicholas\Desktop\uri1234\uri1234\bin\Debug\net5.0\uri1234.pdb
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.csproj.AssemblyReference.cache
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.AssemblyInfoInputs.cache
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.AssemblyInfo.cs
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.csproj.CoreCompileInputs.cache
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.dll
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\refint\uri1234.dll
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.pdb
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\uri1234.genruntimeconfig.cache
+C:\Users\nicholas\Desktop\uri1234\uri1234\obj\Debug\net5.0\ref\uri1234.dll
